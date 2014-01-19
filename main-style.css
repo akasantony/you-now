@@ -1,0 +1,35 @@
+#search-query{
+    background: #1A1A1A;
+    border-radius: 2em;
+    border: none;
+    color: #A2A2A2;
+    font-size: 1.1em;
+    outline: none;
+    padding-left:10px;
+/*    float:left;*/
+    height:25px;
+    width:400px
+        
+}
+#line{
+    height:3px;
+    background-color:#000;
+    margin-bottom:10px;
+    width:560px;
+}
+#video-title{
+   -webkit-text-stroke: 1px black;
+    margin-top:20px;
+}
+#search-ico{
+    line-height:25px;
+    position:absolute;
+    color:#fff;
+    left:380px;
+}
+#search-bar{
+    position:relative;
+}
+#container{
+    margin-left:50px;
+}
