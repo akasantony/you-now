@@ -1,4 +1,4 @@
-Attention! This repository is no longer maintained. Google has changed the Search API's and there this code will no longer work.
+Attention! This repository is no longer maintained. Google has changed the Search API's and therefore this code will no longer work.
 ------
 YouTube Instant
 =======
